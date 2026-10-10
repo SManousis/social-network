@@ -1,0 +1,10 @@
+.git
+.gitignore
+.vscode
+node_modules
+frontend
+docker
+*.log
+tmp
+.env
+.env.*
